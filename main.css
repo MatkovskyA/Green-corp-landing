@@ -67,8 +67,13 @@ header {
     height: 100px;
     position: absolute;
     animation: rotation 10s infinite linear;
-
  }
+
+ .about__sun-image {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
 
   .about {
     display: flex;
